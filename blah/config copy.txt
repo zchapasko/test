@@ -1,0 +1,41 @@
+<well>
+<title>Basic Information</title>
+<text>Parttttt Name</text>
+<text>Sequence</text>
+<text>Part Type</text>
+<img>Pigeon Image</img>
+<link>Plasmid Map Link</link>
+<box>Part Summary</box>
+<box>Related Parts</box>
+</well>
+<well>
+<title>Designer Information</title>
+<text>Author(s)</text>
+<text>Date</text>
+<text>Team</text>
+<text>Data Collectors</text>
+<text>Affiliation</text>
+<text>Contact</text>
+</well>
+<well>
+<title>Design Details</title>
+<text>Type</text>
+<box>Design Components</box>
+<text>Vector</text>
+<box>Additional Comments</box>
+</well>
+<well>
+<title>Assembly Information</title>
+<text>Assembly Method(s)</text>
+<text>Assembly RFC</text>
+<text>Scars</text>
+<box>Assembly Components</box>
+<link>Assembly Graph Image Link</link>
+<text>Chassis</text>
+<text>Strain</text>
+<box>Additional Comments</box>
+</well>
+<well>
+<title>TESing</TITLE>
+<TEXT>blah</text>
+</well>
